@@ -33,3 +33,6 @@ for i in range(1, n+1):
         answer += 1
 
 print(answer)
+
+
+# 안녕하세요 깃
