@@ -1,5 +1,5 @@
 import sys
-#sys.stdin = open("input.txt", "rt")
+sys.stdin = open("input.txt", "rt")
 
 n = int(input())
 ans = list(map(int, input().split()))
@@ -14,3 +14,6 @@ for i in range(n):
         count = 0
 
 print(total)
+
+
+# git test
