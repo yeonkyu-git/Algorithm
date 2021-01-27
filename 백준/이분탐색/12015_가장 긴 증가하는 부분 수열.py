@@ -1,5 +1,4 @@
 import sys
-import bisect
 sys.stdin = open('import.txt', 'rt')
 
 n = int(sys.stdin.readline())
